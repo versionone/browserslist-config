@@ -1,0 +1,13 @@
+{
+  "name": "@versionone/supported-browsers",
+  "version": "1.0.0",
+  "description": "Browserslist specification of browsers supported by VersionOne products.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/versionone/supported-browsers.git"
+  },
+  "author": "VersionOne",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "homepage": "https://github.com/versionone/supported-browsers"
+}
