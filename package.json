@@ -1,6 +1,6 @@
 {
   "name": "@versionone/browserslist-config",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Browserslist specification of browsers supported by VersionOne products.",
   "main": "index.js",
   "repository": {
